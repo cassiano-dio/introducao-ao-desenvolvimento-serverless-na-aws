@@ -1,2 +1,2 @@
-# introducao-ao-desenvolvimento-serverless-na-aws
+# Introdução ao Desenvolvimento Serverless na AWS
 Repositório para o curso de Introdução ao Desenvolvimento Serverless na AWS
